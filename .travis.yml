@@ -3,6 +3,6 @@ sudo: false
 node_js:
   - "stable"
 install:
-  - npm install
+  - npm install --save
 script:
 - npm run test
