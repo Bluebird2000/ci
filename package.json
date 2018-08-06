@@ -1,0 +1,16 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "application.js",
+  "scripts": {
+    "test": "mocha --exit"
+  },
+  "author": "Bluebird",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "joi": "^13.4.0",
+    "mocha": "^5.2.0"
+  }
+}
