@@ -9,6 +9,7 @@
   "author": "Bluebird",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.16.3",
     "chai": "^4.1.2",
     "joi": "^13.4.0",
     "mocha": "^5.2.0"
